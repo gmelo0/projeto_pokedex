@@ -1,4 +1,4 @@
-# Projeto de Landing Page DevQuest
+# Projeto Pokedex DevQuest
 Olá! Este foi o meu terceiro projeto realizado pelo Curso de Desenvolvimento Web DevQuest, onde estou aprendendo nesta primeira etapa o desenvolvimento frontend, utilizando HTML5 CSS3 e Javascript. Uma das maiores dificuldades que encontrei nesse projeto foi a introdução ao Javascript e dimensionar os cartões da melhor forma para que fiquem harmoniozos e parecendo realemnte com um cartão, já estou tendo algum contato com essas linguagens de programação e num primeiro momento pareceu ser mais complicado do que realmente é, mas fiquei bem feliz com o resultado tanto das interações da página, quanto de sua responsividade em variadas telas, mesmo sendo umas das grandes dificuldade desse exercício para mim.
 
 Por fim, venho dizer que estou gostando muito de aprender desenvolvimento web, responsivo, pois a cada dia mais venho me superando, aprendendo coisas novas, melhorando meu foco para resolução de problemas,pensamento lógico, junto com o olhar critico aos detalhes, o que está fazendo com que eu me apaixone cada dia mais pela profissão e pela área de tecnologia da informação.
